@@ -14,7 +14,7 @@ You do not have to credit me but if you do it is more than appreciated
 # To Set Up
 - Start a new project in your coding platform, Visual Studios, Github, Repl, etc
 - Create index.html and style.css files
-- Copy and paste the code above into the designated files
+- Copy and paste the html and css files above into the designated locations
 
 # Contact
 https://discord.gg/ethicalhax
