@@ -26,5 +26,5 @@ https://ethicalhax.xyz
 - Ethical Hax Official Game Site
 https://zynxhive.com
 
--Sponsored Site (Watch thousands of movies and tv shows on demand for free with no ads)
+- Sponsored Site (Watch thousands of movies and tv shows on demand for free with no ads)
 https://moviehive.lol
