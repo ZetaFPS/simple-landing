@@ -17,7 +17,14 @@ You do not have to credit me but if you do it is more than appreciated
 - Copy and paste the html and css files above into the designated locations
 
 # Contact
-https://discord.gg/ethicalhax
+https://discord.gg/QTWsnNeKSQ
 
-# Check out our website for free scripts and games
+# Check out some of our other sites
+- Ethical Hax Official Website
 https://ethicalhax.xyz
+
+- Ethical Hax Official Game Site
+https://zynxhive.com
+
+-Sponsored Site (Watch thousands of movies and tv shows on demand for free with no ads)
+https://moviehive.lol
